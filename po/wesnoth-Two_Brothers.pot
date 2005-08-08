@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-08 11:18+0200\n"
+"POT-Creation-Date: 2005-08-08 17:01+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,8 +45,8 @@ msgstr ""
 msgid "Slay the Black Mage"
 msgstr ""
 
-#: ./Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:26
-msgid "Death of Lord Arne or"
+#: ./Two_Brothers/scenarios/2_The_Chase.cfg:27 ./Two_Brothers/scenarios/4_Return_to_the_Village.cfg:44 ./Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:26 ./Two_Brothers/scenarios/3_Guarded_Castle.cfg:27
+msgid "Death of Arne"
 msgstr ""
 
 #: ./Two_Brothers/scenarios/2_The_Chase.cfg:31 ./Two_Brothers/scenarios/4_Return_to_the_Village.cfg:52 ./Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:30 ./Two_Brothers/scenarios/3_Guarded_Castle.cfg:31
@@ -159,10 +159,6 @@ msgstr ""
 
 #: ./Two_Brothers/scenarios/2_The_Chase.cfg:23
 msgid "Fight your way through the woods before the kidnappers escape"
-msgstr ""
-
-#: ./Two_Brothers/scenarios/2_The_Chase.cfg:27 ./Two_Brothers/scenarios/4_Return_to_the_Village.cfg:44 ./Two_Brothers/scenarios/3_Guarded_Castle.cfg:27
-msgid "Death of Arne"
 msgstr ""
 
 #: ./Two_Brothers/scenarios/2_The_Chase.cfg:64

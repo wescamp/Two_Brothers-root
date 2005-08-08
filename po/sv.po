@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-08-08 11:18+0200\n"
+"PO-Revision-Date: 2005-08-08 11:18+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Two_Brothers.cfg:11
+msgid "A Tale Of Two Brothers"
+msgstr ""
+
+#: Two_Brothers.cfg:15
+msgid "(easy)"
+msgstr ""
+
+#: Two_Brothers.cfg:15
+msgid "Horseman"
+msgstr ""
+
+#: Two_Brothers.cfg:16
+msgid "(hard)"
+msgstr ""
+
+#: Two_Brothers.cfg:16
+msgid "Knight"
+msgstr ""
+
+#: Two_Brothers.cfg:19
+msgid ""
+"A Black Mage is threatening the local village and it's inhabitants. When "
+"their leader Bjarn sends for aid from his brother Arne, he is victorious, "
+"but Bjarn himself is kidnapped. Can you rescue him?\n"
+"A very short campaign.\n"
+"Suitable for beginners."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:4
+msgid "Rooting Out A Mage"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:22
+msgid "Slay the Black Mage"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:26
+msgid "Death of Lord Arne or"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:31
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:52
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:30
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:31
+msgid "Turns run out"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:46
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:67
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:45
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:46
+msgid "Arne"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:53
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:359
+msgid "Bjarn"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:63
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:71
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:79
+msgid "Peasant"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:87
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:95
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:103
+msgid "Villager"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:113
+msgid "Erik"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:121
+msgid "Heine"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:129
+msgid "Magnus"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:147
+msgid "The Black Mage"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:165
+msgid ""
+"In a remote part of Wesnoth, people lived their lives working hard and "
+"caring for each other, but not knowing much about the world outside. One "
+"day, however, their peaceful world was shattered, as an evil mage came to "
+"the region, spreading havoc and despair."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:169
+msgid ""
+"Bjarn, the local mage of the village, was the man who saw best how to deal "
+"with this threat. He asked the help of his brother Arne, leader of a "
+"mercenary band of horsemen, and outfitted several of the villagers with gear "
+"from the armory."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:173
+msgid "Ello there, Bjarn. So, what's the big fuss?"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:177
+msgid ""
+"That evil mage nearby. He is terrorizing our countryside. I've already "
+"called the village to arms, it's up to you to lead them."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:181
+msgid "Very well. Charge, men!"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:185
+msgid ""
+"I will attempt to sneak through the forest. If I can slay the evil one while "
+"he is off his guard, the battle will be over in one stroke!"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:196
+msgid ""
+"Bjarn should have been in position by now. I wonder if anything's happened "
+"to him?"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:204
+msgid ""
+"This is worrying. What's happened to Bjarn? I suppose we must slay the "
+"necromancer ourselves."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:223
+msgid "Good work, men. Now, where is Bjarn?"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:227
+msgid "Worried about him, are you? E-he-he..hergh...gaargh. . ."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:231
+msgid "Nothing more to be had from him."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:235
+msgid ""
+"Sir, he's been kidnapped! I just saw some men running off with him. They "
+"looked like friends of this one."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:239
+msgid "Damn! I suppose we have to go after him, then."
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:252
+msgid ""
+"Ha, so you thought to send a mage around and stab me in the back? Well, I "
+"have news for you. We've kidnapped him!"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:256
+msgid ""
+"What? Bjarn kidnapped? And the black mage still ravages the land? Noooo!"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:268
+msgid "I hear these creatures are near immune to our weapons, let us see!"
+msgstr ""
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:280
+msgid "That wasn't so hard!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:4
+msgid "The Chase"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:23
+msgid "Fight your way through the woods before the kidnappers escape"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:27
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:44
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:27
+msgid "Death of Arne"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:64
+msgid "Nil-Galion"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:165
+msgid ""
+"The kidnappers fled north through the forest, and Arne made to follow them, "
+"although his horsemen would be at a disadvantage."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:169
+msgid "Sounds of a scuffle were heard from the forest."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:173
+msgid "Come on men. Some greenery never hurt anyone, did it?"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:177
+msgid "You there! Halt and explain yourself."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:181
+msgid "We're chasing after some men who kidnapped my brother!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:185
+msgid "No men have come this way, and you will not be the first. Die!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:189
+msgid "A glorious combat at last, against mounted enemies!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:204
+msgid "Muff Toras"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:245
+msgid "I see them! There they are!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:249
+msgid "Curses! I hope the reinforcements get here so I can escape soon."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:257
+msgid "Come on, men, let's catch those kidnappers!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:268
+msgid ""
+"Hah! You got me alright, but what does that help? No harm telling you now, I "
+"suppose. Your precious mage is safely locked away in our dungeons. I was set "
+"up to be a decoy."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:272
+msgid ""
+"Nooo! Tricked again. Tell us where he is and we shall spare your miserable "
+"life."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:276
+msgid ""
+"Three days ride to the east, in the deserted castle. The passwords to the "
+"guards are Sithrak, Eleben and Galatir."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:280
+msgid "Thank you. Leave him, men, we ride East."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:286
+msgid "Brena"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:294
+msgid "Wait, friend. We would join your cause!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:298
+msgid "They would only slow us down!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:302
+msgid "I make the decisions here."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:305
+msgid "Oh, all right then. Come along with us."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:309
+msgid "Thank you."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:318
+msgid "I am sorry. We have not the time to spare."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:322
+msgid "Take this, then, for I see that you are on a quest."
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:336
+msgid "You receive 80 pieces of gold!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:356
+msgid "My reinforcements are here!"
+msgstr ""
+
+#: Two_Brothers/scenarios/2_The_Chase.cfg:360
+msgid "He escaped us..."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:4
+msgid "Guarded Castle"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:23
+msgid "Find Bjarn"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:65
+msgid "Rotharik"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:77
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:85
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:94
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:238
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:246
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:254
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:263
+msgid "Guard"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:116
+msgid "Knago-Brek"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:126
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:135
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:145
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:154
+msgid "Castle Guard"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:171
+msgid ""
+"Arne arrived at the castle and was immediately challenged by some guards."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:175
+msgid "Halt! Friend or foe? Give the password."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:180
+msgid "The password is"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:183
+msgid "Alrek!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:187
+msgid "Wrong! Die!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:193
+msgid "Argol!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:197
+msgid "Oh dear, that's wrong. Any last words?"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:203
+msgid "Sithrak!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:207
+msgid "Pass, friend."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:229
+msgid "Haha! Stupid humans think they can stop us with words!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:272
+msgid "Are you our relief arriving? Does this mean we get to leave here now?"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:276
+msgid "Um, yes. Fine. You can go."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:280
+msgid "Um, you're supposed to give the password."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:284
+msgid "Oh, of course. I had nearly forgotten."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:287
+msgid "Eleben."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:291
+msgid "Thanks! Irritating little formality, isn't it?"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:300
+msgid "Elbrethil."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:310
+msgid "Toras."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:314
+msgid "Wrong! So you thought to trick us into deserting our posts? Die!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:328
+msgid "Nooo! This is the end..."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:332
+msgid "There's a key in his robes."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:336
+msgid ""
+"It must be the key to the cell they're holding Bjarn in! Let's free him!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:365
+msgid "Thank you for coming to my aid. Let us return to the village."
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:19
+msgid "Breaking Dawn"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:40
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:48
+msgid "Death of Bjarn"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:80
+msgid "Maluraga"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:105
+msgid "Councillor Hoban"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:155
+msgid ""
+"There. Our village is just across those hills, and already I see men coming "
+"to greet us!"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:159
+msgid ""
+"No. They are fleeing from something. I see undead ahead! They have attacked "
+"our village!"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:163
+msgid "I think our friends are holding out well, though."
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:167
+msgid ""
+"The undead are lead by a Lich. What a grim foe to face. Let us hold until "
+"dawn, and then strike!"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:175
+msgid ""
+"Look, the first rays of the sun break over the horizon! They are at their "
+"weakest now!"
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:183
+msgid "At last, our village is safe."
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:194
+msgid "It is over, I am vanquished."
+msgstr ""

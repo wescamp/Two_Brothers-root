@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-08 22:24+0200\n"
+"POT-Creation-Date: 2005-08-22 21:49+0200\n"
 "PO-Revision-Date: 2005-08-22 20:17+0100\n"
 "Last-Translator: Nils Kneuper <crazy - ivanovic AT gmx DOT de>\n"
 "Language-Team: German Translators\n"
@@ -34,11 +34,15 @@ msgstr "Ritter"
 
 #: Two_Brothers.cfg:19
 msgid ""
-"A Black Mage is threatening the local village and it's inhabitants. When their leader Bjarn sends for aid from his brother Arne, he is victorious, but Bjarn himself is kidnapped. Can you rescue him?\n"
+"A Black Mage is threatening the local village and it's inhabitants. When "
+"their leader Bjarn sends for aid from his brother Arne, he is victorious, "
+"but Bjarn himself is kidnapped. Can you rescue him?\n"
 "A very short campaign.\n"
 "Suitable for beginners."
 msgstr ""
-"Ein Schwarzmagier bedroht ein nahe gelegenes Dorf und seine Bewohner. Als ihr Anführer Bjarn seinen Bruder Arne um Hilfe bittet, eilt sein Bruder herbei. Doch Bjarn wurde entführt. Könnt ihr ihn erretten?\n"
+"Ein Schwarzmagier bedroht ein nahe gelegenes Dorf und seine Bewohner. Als "
+"ihr Anführer Bjarn seinen Bruder Arne um Hilfe bittet, eilt sein Bruder "
+"herbei. Doch Bjarn wurde entführt. Könnt ihr ihn erretten?\n"
 "Eine sehr kurze Kampagne.\n"
 "Ausgelegt für Anfänger."
 
@@ -105,70 +109,128 @@ msgid "The Black Mage"
 msgstr "Der Schwarzmagier"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:165
-msgid "In a remote part of Wesnoth, people lived their lives working hard and caring for each other, but not knowing much about the world outside. One day, however, their peaceful world was shattered, as an evil mage came to the region, spreading havoc and despair."
-msgstr "In einem abgelegenen Teil von Wesnoth lebte einst ein Volk, das hart arbeitete und seinen Mitmenschen gegenüber immerzu freundlich gesonnen war. Doch sie wussten nichts über die mannigfaltigen Gefahren der weiten Welt. Doch eines Tages wurde das friedliche und harmonische Weltbild dieses Volkes erschüttert, als ein böser Magier in die Region kam um dort Verwüstung und Verzweiflung zu verbreiten."
+msgid ""
+"In a remote part of Wesnoth, people lived their lives working hard and "
+"caring for each other, but not knowing much about the world outside. One "
+"day, however, their peaceful world was shattered, as an evil mage came to "
+"the region, spreading havoc and despair."
+msgstr ""
+"In einem abgelegenen Teil von Wesnoth lebte einst ein Volk, das hart "
+"arbeitete und seinen Mitmenschen gegenüber immerzu freundlich gesonnen war. "
+"Doch sie wussten nichts über die mannigfaltigen Gefahren der weiten Welt. "
+"Doch eines Tages wurde das friedliche und harmonische Weltbild dieses Volkes "
+"erschüttert, als ein böser Magier in die Region kam um dort Verwüstung und "
+"Verzweiflung zu verbreiten."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:169
-msgid "Bjarn, the local mage of the village, was the man who saw best how to deal with this threat. He asked the help of his brother Arne, leader of a mercenary band of horsemen, and outfitted several of the villagers with gear from the armory."
-msgstr "Der Dorfmagier Bjarn sah einen Weg mit dieser Bedrohung umzugehen. Er bat seinen Bruder Arne, Anführer einer berittenen Söldnergruppe, um Hilfe und er stattete einige Dorfbewohner mit Ausrüstung aus der Waffenkammer aus."
+msgid ""
+"Bjarn, the local mage of the village, was the man who saw best how to deal "
+"with this threat. He asked the help of his brother Arne, leader of a "
+"mercenary band of horsemen, and outfitted several of the villagers with gear "
+"from the armory."
+msgstr ""
+"Der Dorfmagier Bjarn sah einen Weg mit dieser Bedrohung umzugehen. Er bat "
+"seinen Bruder Arne, Anführer einer berittenen Söldnergruppe, um Hilfe und er "
+"stattete einige Dorfbewohner mit Ausrüstung aus der Waffenkammer aus."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:173
-msgid "Ello there, Bjarn. So, what's the big fuss?"
+#, fuzzy
+msgid "'ello there, Bjarn. So, what's the big fuss?"
 msgstr "Hallo Bjarn. Wie kann ich dir behilflich sein?"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:177
-msgid "That evil mage nearby. He is terrorizing our countryside. I've already called the village to arms, it's up to you to lead them."
-msgstr "Einen Tagesritt gen Norden lebt ein böser Magier, der diese Gegend terrorisiert. Ich habe die Dorfbewohner und Bauern bereits zu den Waffen gerufen, doch es ist an dir sie in die Schlacht zu führen."
+#, fuzzy
+msgid ""
+"An evil mage, one day's ride north, is posing a threat to our livelihoods. "
+"He is terrorizing our countryside. I've already called the village to arms "
+"and now it's up to you to lead them."
+msgstr ""
+"Einen Tagesritt gen Norden lebt ein böser Magier, der diese Gegend "
+"terrorisiert. Ich habe die Dorfbewohner und Bauern bereits zu den Waffen "
+"gerufen, doch es ist an dir sie in die Schlacht zu führen."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:181
-msgid "Very well. Charge, men!"
-msgstr "Na gut. Wir werden uns aufmachen und diese Quelle des Bösen ein für allemal vernichten. Macht euch bereit, Männer!"
+msgid "Very well. We will go there and slay this source of evil. Charge, men!"
+msgstr ""
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:185
-msgid "I will attempt to sneak through the forest. If I can slay the evil one while he is off his guard, the battle will be over in one stroke!"
-msgstr "Ich werde versuchen mich durch den Wald zu schleichen. Vielleicht kann ich ihn erschlagen, während seine Truppen abgelenkt sind. Dann wäre der Kampf beendet, bevor er richtig angefangen hat!"
+msgid ""
+"After a short journey the small band of troops is close to the hideout of "
+"the evil mage."
+msgstr ""
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:196
-msgid "Bjarn should have been in position by now. I wonder if anything's happened to him?"
-msgstr "Bjarn sollte nun in Position sein. Ich frage mich ob ihm etwas zugestoßen ist?"
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:189
+msgid ""
+"I will attempt to sneak through the forest. If I can slay the evil one while "
+"he is off his guard, the battle will be over in one stroke!"
+msgstr ""
+"Ich werde versuchen mich durch den Wald zu schleichen. Vielleicht kann ich "
+"ihn erschlagen, während seine Truppen abgelenkt sind. Dann wäre der Kampf "
+"beendet, bevor er richtig angefangen hat!"
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:204
-msgid "This is worrying. What's happened to Bjarn? I suppose we must slay the necromancer ourselves."
-msgstr "Das ist wirklich besorgniserregend. Was ist Bjarn bloß zugestoßen? Ich schätze wir müssen den Totenbeschwörer selbst endgültig von hier vertreiben."
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:200
+msgid ""
+"Bjarn should have been in position by now. I wonder if anything's happened "
+"to him?"
+msgstr ""
+"Bjarn sollte nun in Position sein. Ich frage mich ob ihm etwas zugestoßen "
+"ist?"
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:223
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:208
+msgid ""
+"This is worrying. What's happened to Bjarn? I suppose we must slay the "
+"necromancer ourselves."
+msgstr ""
+"Das ist wirklich besorgniserregend. Was ist Bjarn bloß zugestoßen? Ich "
+"schätze wir müssen den Totenbeschwörer selbst endgültig von hier vertreiben."
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:227
 msgid "Good work, men. Now, where is Bjarn?"
 msgstr "Gute Arbeit, Männer. Wo versteckt sich Bjarn?"
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:227
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:231
 msgid "Worried about him, are you? E-he-he..hergh...gaargh. . ."
 msgstr "Sorgst du dich um ihn? Zu recht. E-he-he..hergh...gaargh. . ."
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:231
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:235
 msgid "Nothing more to be had from him."
 msgstr "Und dies waren seine letzten Worte..."
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:235
-msgid "Sir, he's been kidnapped! I just saw some men running off with him. They looked like friends of this one."
-msgstr "Herr, er wurde entführt! Ich sah gerade einige Männer mit ihm von hier entfliehen. Sie sahen aus wie Kumpane von diesem hier."
-
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:239
+msgid ""
+"Sir, he's been kidnapped! I just saw some men running off with him. They "
+"looked like friends of this one."
+msgstr ""
+"Herr, er wurde entführt! Ich sah gerade einige Männer mit ihm von hier "
+"entfliehen. Sie sahen aus wie Kumpane von diesem hier."
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:243
 msgid "Damn! I suppose we have to go after him, then."
 msgstr "Verflucht! Wir werden sie wohl verfolgen müssen."
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:252
-msgid "Ha, so you thought to send a mage around and stab me in the back? Well, I have news for you. We've kidnapped him!"
-msgstr "Also dachtet ihr ihr könntet einfach so einen Magier entsenden um mich zu hinterrücks zu töten? Nun, ich habe schlechte Neuigkeiten für euch. Wir haben ihn entführt!"
-
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:256
-msgid "What? Bjarn kidnapped? And the black mage still ravages the land? Noooo!"
-msgstr "Was? Bjarn entführt? Und der schwarze Magier verwüstet immer noch diese Land? Das darf nicht sein!"
+msgid ""
+"Ha, so you thought to send a mage around and stab me in the back? Well, I "
+"have news for you. We've kidnapped him!"
+msgstr ""
+"Also dachtet ihr ihr könntet einfach so einen Magier entsenden um mich zu "
+"hinterrücks zu töten? Nun, ich habe schlechte Neuigkeiten für euch. Wir "
+"haben ihn entführt!"
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:268
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:260
+msgid ""
+"What? Bjarn kidnapped? And the black mage still ravages the land? Noooo!"
+msgstr ""
+"Was? Bjarn entführt? Und der schwarze Magier verwüstet immer noch diese "
+"Land? Das darf nicht sein!"
+
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:272
 msgid "I hear these creatures are near immune to our weapons, let us see!"
-msgstr "Man sagt diese Kreaturen seien nahezu immun gegen unsere Waffen. Das werde ich mal etwas näher testen..."
+msgstr ""
+"Man sagt diese Kreaturen seien nahezu immun gegen unsere Waffen. Das werde "
+"ich mal etwas näher testen..."
 
-#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:280
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:284
 msgid "That wasn't so hard!"
 msgstr "Das war gar nicht so schwierig!"
 
@@ -184,107 +246,137 @@ msgstr "Erkämpft euch einen Weg durch den Wald bevor die Entführer entkommen"
 msgid "Nil-Galion"
 msgstr "Nil-Galion"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:165
-msgid "The kidnappers fled north through the forest, and Arne made to follow them, although his horsemen would be at a disadvantage."
-msgstr "Die Entführer fliehen nordwärts durch den Wald und Arne folgt ihnen, obwohl seine Reiter in diesen Wäldern arg benachteiligt sind."
+#: Two_Brothers/scenarios/2_The_Chase.cfg:154
+msgid ""
+"The kidnappers fled north through the forest, and Arne made to follow them, "
+"although his horsemen would be at a disadvantage."
+msgstr ""
+"Die Entführer fliehen nordwärts durch den Wald und Arne folgt ihnen, obwohl "
+"seine Reiter in diesen Wäldern arg benachteiligt sind."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:169
+#: Two_Brothers/scenarios/2_The_Chase.cfg:158
 msgid "Sounds of a scuffle were heard from the forest."
 msgstr "Ihr hört ein Rascheln aus Richtung des Waldes."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:173
+#: Two_Brothers/scenarios/2_The_Chase.cfg:162
 msgid "Come on men. Some greenery never hurt anyone, did it?"
-msgstr "Kommt Männer. Ein wenig Grünzeug hat noch niemanden umgebracht, nicht wahr?"
+msgstr ""
+"Kommt Männer. Ein wenig Grünzeug hat noch niemanden umgebracht, nicht wahr?"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:177
+#: Two_Brothers/scenarios/2_The_Chase.cfg:166
 msgid "You there! Halt and explain yourself."
 msgstr "Ihr da! Was habt ihr hier zu suchen?!?"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:181
+#: Two_Brothers/scenarios/2_The_Chase.cfg:170
 msgid "We're chasing after some men who kidnapped my brother!"
 msgstr "Wir verfolgen einige Männer die meinen Bruder entführt haben!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:185
+#: Two_Brothers/scenarios/2_The_Chase.cfg:174
 msgid "No men have come this way, and you will not be the first. Die!"
-msgstr "Niemand hat diesen Weg genommen und du wirst nicht der erste sein. Stirb!"
+msgstr ""
+"Niemand hat diesen Weg genommen und du wirst nicht der erste sein. Stirb!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:189
+#: Two_Brothers/scenarios/2_The_Chase.cfg:178
 msgid "A glorious combat at last, against mounted enemies!"
 msgstr "Zumindest ein glorreicher Kampf gegen bewaffnete Feinde!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:204
+#: Two_Brothers/scenarios/2_The_Chase.cfg:193
 msgid "Muff Toras"
 msgstr "Muff Toras"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:245
+#: Two_Brothers/scenarios/2_The_Chase.cfg:234
 msgid "I see them! There they are!"
 msgstr "Ich kann sie sehen! Sie sind dort vorne!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:249
+#: Two_Brothers/scenarios/2_The_Chase.cfg:238
 msgid "Curses! I hope the reinforcements get here so I can escape soon."
-msgstr "Verflucht! Ich hoffe die Verstärkung trifft bald ein, so dass ich entfliehen kann."
+msgstr ""
+"Verflucht! Ich hoffe die Verstärkung trifft bald ein, so dass ich entfliehen "
+"kann."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:257
+#: Two_Brothers/scenarios/2_The_Chase.cfg:246
 msgid "Come on, men, let's catch those kidnappers!"
 msgstr "Kommt Männer, lasst uns die Entführer fertig machen!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:268
-msgid "Hah! You got me alright, but what does that help? No harm telling you now, I suppose. Your precious mage is safely locked away in our dungeons. I was set up to be a decoy."
-msgstr "Hah! Nun denn, Ihr habt mich erwischt, doch was bringt euch das? Ich denke nicht das es schadet, wenn ich euch dies verrate: Euer geliebter Magier ist sicher in unserem Kerker angekettet. Ich wurde nur als Köder entsandt."
+#: Two_Brothers/scenarios/2_The_Chase.cfg:257
+msgid ""
+"Hah! You got me alright, but what does that help? No harm telling you now, I "
+"suppose. Your precious mage is safely locked away in our dungeons. I was set "
+"up to be a decoy."
+msgstr ""
+"Hah! Nun denn, Ihr habt mich erwischt, doch was bringt euch das? Ich denke "
+"nicht das es schadet, wenn ich euch dies verrate: Euer geliebter Magier ist "
+"sicher in unserem Kerker angekettet. Ich wurde nur als Köder entsandt."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:272
-msgid "Nooo! Tricked again. Tell us where he is and we shall spare your miserable life."
-msgstr "Neiiin! Schon wieder aus getrickst. Sag uns wo genau er ist und wir verschonen dein jämmerliches Leben."
+#: Two_Brothers/scenarios/2_The_Chase.cfg:261
+msgid ""
+"Nooo! Tricked again. Tell us where he is and we shall spare your miserable "
+"life."
+msgstr ""
+"Neiiin! Schon wieder aus getrickst. Sag uns wo genau er ist und wir "
+"verschonen dein jämmerliches Leben."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:276
-msgid "Three days ride to the east, in the deserted castle. The passwords to the guards are Sithrak and Eleben."
-msgstr "Drei Tages ritte gen Osten in der verlassenen Festung. Die Kennworte für die Wächter sind Sithrak und Eleben."
+#: Two_Brothers/scenarios/2_The_Chase.cfg:265
+msgid ""
+"Three days ride to the east, in the deserted castle. The passwords to the "
+"guards are Sithrak and Eleben."
+msgstr ""
+"Drei Tages ritte gen Osten in der verlassenen Festung. Die Kennworte für die "
+"Wächter sind Sithrak und Eleben."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:280
+#: Two_Brothers/scenarios/2_The_Chase.cfg:269
 msgid "Thank you. Leave him, men, we ride East."
 msgstr "Besten Dank. Lasst ihn hier liegen Männer. Wie reiten gen Osten."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:286
+#: Two_Brothers/scenarios/2_The_Chase.cfg:275
 msgid "Brena"
 msgstr "Brena"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:294
+#: Two_Brothers/scenarios/2_The_Chase.cfg:283
 msgid "Wait, friend. We would join your cause!"
-msgstr "Wartet, mein Freund. Wir würden uns gerne eurer Truppe anschließen um euch auf eurer Queste zu unterstützen."
+msgstr ""
+"Wartet, mein Freund. Wir würden uns gerne eurer Truppe anschließen um euch "
+"auf eurer Queste zu unterstützen."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:298
+#: Two_Brothers/scenarios/2_The_Chase.cfg:287
 msgid "They would only slow us down!"
 msgstr "Sie würden uns nur aufhalten!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:302
+#: Two_Brothers/scenarios/2_The_Chase.cfg:291
 msgid "I make the decisions here."
 msgstr "Ich treffe hier die Entscheidungen."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:305
+#: Two_Brothers/scenarios/2_The_Chase.cfg:294
 msgid "Oh, all right then. Come along with us."
 msgstr "Nun denn, kommt mit uns."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:309
-msgid "Thank you."
-msgstr "Danke."
+#: Two_Brothers/scenarios/2_The_Chase.cfg:298
+msgid "Thank you. My comrades and I will help you on your noble quest."
+msgstr ""
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:318
+#: Two_Brothers/scenarios/2_The_Chase.cfg:307
 msgid "I am sorry. We have not the time to spare."
 msgstr "Es tut mir sehr Leid, doch haben wir keine Zeit zu verlieren."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:322
-msgid "Take this, then, for I see that you are on a quest."
-msgstr "Nehmt dies, denn ich sehe, dass wichtige Schlachten drauf warten von euch geschlagen zu werden."
+#: Two_Brothers/scenarios/2_The_Chase.cfg:311
+#, fuzzy
+msgid ""
+"Take this, then, for I see that you are on a quest. My comrades will help "
+"you whenever you call for them."
+msgstr ""
+"Nehmt dies, denn ich sehe, dass wichtige Schlachten drauf warten von euch "
+"geschlagen zu werden."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:336
-msgid "You receive 80 pieces of gold!"
+#: Two_Brothers/scenarios/2_The_Chase.cfg:328
+#, fuzzy
+msgid "You receive 60 pieces of gold!"
 msgstr "Ihr erhaltet 80 Goldstücke!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:356
+#: Two_Brothers/scenarios/2_The_Chase.cfg:344
 msgid "My reinforcements are here!"
 msgstr "Meine Verstärkungen sind angekommen!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:360
+#: Two_Brothers/scenarios/2_The_Chase.cfg:348
 msgid "He escaped us..."
 msgstr "Er ist uns entkommen...."
 
@@ -322,8 +414,11 @@ msgid "Castle Guard"
 msgstr "Palastwache"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:171
-msgid "Arne arrived at the castle and was immediately challenged by some guards."
-msgstr "Als Arne sich der Festung nähert, wird er auch schon von einigen Wachen angehalten."
+msgid ""
+"Arne arrived at the castle and was immediately challenged by some guards."
+msgstr ""
+"Als Arne sich der Festung nähert, wird er auch schon von einigen Wachen "
+"angehalten."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:175
 msgid "Halt! Friend or foe? Give the password."
@@ -359,7 +454,8 @@ msgstr "Ihr dürft passieren."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:229
 msgid "Haha! Stupid humans think they can stop us with words!"
-msgstr "Haha! Diese dämlichen Menschen denken, sie könnten uns mit Worten aufhalten!"
+msgstr ""
+"Haha! Diese dämlichen Menschen denken, sie könnten uns mit Worten aufhalten!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:272
 msgid "Are you our relief arriving? Does this mean we get to leave here now?"
@@ -395,7 +491,9 @@ msgstr "Toras."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:314
 msgid "Wrong! So you thought to trick us into deserting our posts? Die!"
-msgstr "Falsch! Ihr wolltet uns also aus tricksen, so dass wir unseren Posten verlassen? Sterbt!"
+msgstr ""
+"Falsch! Ihr wolltet uns also aus tricksen, so dass wir unseren Posten "
+"verlassen? Sterbt!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:328
 msgid "Nooo! This is the end..."
@@ -406,12 +504,21 @@ msgid "There's a key in his robes."
 msgstr "Hey, da ist ein Schlüssel in seiner Robe."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:336
-msgid "It must be the key to the cell they're holding Bjarn in! Let's free him!"
-msgstr "Das muss der Schlüssel zu der Zelle sein, in der Bjarn gefangen gehalten wird! Wir müssen ihn befreien!"
+msgid ""
+"It must be the key to the cell they're holding Bjarn in! Let's free him!"
+msgstr ""
+"Das muss der Schlüssel zu der Zelle sein, in der Bjarn gefangen gehalten "
+"wird! Wir müssen ihn befreien!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:365
 msgid "Thank you for coming to my aid. Let us return to the village."
-msgstr "Danke das ihr mir zu Hilfe gekommen seid. Doch nun lasst uns zum Dorf zurückkehren."
+msgstr ""
+"Danke das ihr mir zu Hilfe gekommen seid. Doch nun lasst uns zum Dorf "
+"zurückkehren."
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:4
+msgid "Return to the Village"
+msgstr ""
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:19
 msgid "Breaking Dawn"
@@ -433,31 +540,54 @@ msgstr "Maluraga"
 msgid "Councillor Hoban"
 msgstr "Ratsmitglied Hoban"
 
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:155
-msgid "There. Our village is just across those hills, and already I see men coming to greet us!"
-msgstr "Dort. Unser Dorf ist gleich auf der anderen Seite dieser Hügel. Ich kann die Männer schon sehen, wie sie uns entgegenkommen, um uns zu begrüßen!"
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:149
+msgid ""
+"There. Our village is just across those hills, and already I see men coming "
+"to greet us!"
+msgstr ""
+"Dort. Unser Dorf ist gleich auf der anderen Seite dieser Hügel. Ich kann die "
+"Männer schon sehen, wie sie uns entgegenkommen, um uns zu begrüßen!"
 
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:159
-msgid "No. They are fleeing from something. I see undead ahead! They have attacked our village!"
-msgstr "Nein. Sie fliehen vor etwas. Ich kann Untote sehen! Sie haben unser Dorf angegriffen!"
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:153
+msgid ""
+"No. They are fleeing from something. I see undead ahead! They have attacked "
+"our village!"
+msgstr ""
+"Nein. Sie fliehen vor etwas. Ich kann Untote sehen! Sie haben unser Dorf "
+"angegriffen!"
 
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:163
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:157
 msgid "I think our friends are holding out well, though."
 msgstr "Ich denke unsere Freunde schaffen es trotz allem durchzuhalten."
 
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:167
-msgid "The undead are lead by a Lich. What a grim foe to face. Let us hold until dawn, and then strike!"
-msgstr "Die Untoten werden von einem Lich angeführt. Ein gefährlicher Feind. Lasst uns besser bis zum Morgengrauen warten und dann angreifen!"
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:161
+msgid ""
+"The undead are lead by a Lich. What a grim foe to face. Let us hold until "
+"dawn, and then strike!"
+msgstr ""
+"Die Untoten werden von einem Lich angeführt. Ein gefährlicher Feind. Lasst "
+"uns besser bis zum Morgengrauen warten und dann angreifen!"
 
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:175
-msgid "Look, the first rays of the sun break over the horizon! They are at their weakest now!"
-msgstr "Schaut, die ersten Sonnenstrahlen sind am Horizont zu sehen! Unsere Gegner sind nun geschwächt!"
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:169
+msgid ""
+"Look, the first rays of the sun break over the horizon! They are at their "
+"weakest now!"
+msgstr ""
+"Schaut, die ersten Sonnenstrahlen sind am Horizont zu sehen! Unsere Gegner "
+"sind nun geschwächt!"
 
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:183
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:177
 msgid "At last, our village is safe."
 msgstr "Letztendlich haben wir es geschafft. Unser Dorf ist gerettet."
 
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:194
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:188
 msgid "It is over, I am vanquished."
 msgstr "Es ist aus, ich bin geschlagen."
 
+#~ msgid "Very well. Charge, men!"
+#~ msgstr ""
+#~ "Na gut. Wir werden uns aufmachen und diese Quelle des Bösen ein für "
+#~ "allemal vernichten. Macht euch bereit, Männer!"
+
+#~ msgid "Thank you."
+#~ msgstr "Danke."

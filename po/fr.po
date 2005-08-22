@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-twobrothers 0.2.1+yann\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-22 21:49+0200\n"
-"PO-Revision-Date: 2005-08-08 11:18+0200\n"
+"PO-Revision-Date: 2004-11-08 21:47+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: Two_Brothers.cfg:11
 msgid "A Tale Of Two Brothers"
-msgstr ""
+msgstr "Histoire de deux frères"
 
 #: Two_Brothers.cfg:15
 msgid "(easy)"
@@ -109,6 +109,10 @@ msgid ""
 "day, however, their peaceful world was shattered, as an evil mage came to "
 "the region, spreading havoc and despair."
 msgstr ""
+"Dans un coin reculé de Wesnoth, les gens vivaient leur vie, travaillant dur "
+"et se préoccupant les uns des autres, mais ne sachant pas grand chose du "
+"monde extérieur.  Un jour, pourtant, leur monde paisible fut secoué, un mage "
+"mauvais étant arrivé dans la région, répandant ravages et désespoir."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:169
 msgid ""
@@ -361,15 +365,15 @@ msgstr ""
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:171
 msgid ""
 "Arne arrived at the castle and was immediately challenged by some guards."
-msgstr ""
+msgstr "Arne arriva au château et fut immédiatement interpellé par des gardes."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:175
 msgid "Halt! Friend or foe? Give the password."
-msgstr ""
+msgstr "Halte ! Ami ou ennemi ? Donnez le mot de passe."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:180
 msgid "The password is"
-msgstr ""
+msgstr "Le mot de passe est"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:183
 msgid "Alrek!"
@@ -511,3 +515,6 @@ msgstr ""
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:188
 msgid "It is over, I am vanquished."
 msgstr ""
+
+#~ msgid "Very well. Charge, men!"
+#~ msgstr "Très bien.  Messieurs, chargez !"

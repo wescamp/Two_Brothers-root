@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-twobrothers 0.2.1+yann\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-22 21:49+0200\n"
+"POT-Creation-Date: 2005-08-23 22:00+0200\n"
 "PO-Revision-Date: 2004-11-11 19:08+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -57,26 +57,26 @@ msgstr ""
 #: Two_Brothers/scenarios/2_The_Chase.cfg:27
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:44
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:26
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:27
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:38
 msgid "Death of Arne"
 msgstr ""
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:31
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:52
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:30
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:31
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:42
 msgid "Turns run out"
 msgstr ""
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:46
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:67
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:45
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:46
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:59
 msgid "Arne"
 msgstr ""
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:53
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:359
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:407
 msgid "Bjarn"
 msgstr ""
 
@@ -229,6 +229,12 @@ msgstr ""
 msgid "That wasn't so hard!"
 msgstr "Ça n'était pas si difficile !"
 
+#: Two_Brothers/scenarios/2_The_Chase.cfg:362
+#: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:295
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:493
+msgid "Everything is lost now that I am dead..."
+msgstr ""
+
 #: Two_Brothers/scenarios/2_The_Chase.cfg:4
 msgid "The Chase"
 msgstr "La poursuite"
@@ -329,175 +335,223 @@ msgstr "Merci. Laissez-le, messieurs, chevauchons vers l'Est."
 msgid "Brena"
 msgstr ""
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:283
-msgid "Wait, friend. We would join your cause!"
+#: Two_Brothers/scenarios/2_The_Chase.cfg:286
+#, fuzzy
+msgid "Wait, friend. We would like to join your cause!"
 msgstr "Attendez, ami. Nous voulons nous rallier à votre cause !"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:287
+#: Two_Brothers/scenarios/2_The_Chase.cfg:290
 msgid "They would only slow us down!"
 msgstr "Ils ne feront que nous ralentir !"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:291
+#: Two_Brothers/scenarios/2_The_Chase.cfg:294
 msgid "I make the decisions here."
 msgstr "C'est moi qui prend les décisions, ici."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:294
+#: Two_Brothers/scenarios/2_The_Chase.cfg:297
 msgid "Oh, all right then. Come along with us."
 msgstr "Eh bien d'accord. Venez avec nous."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:298
+#: Two_Brothers/scenarios/2_The_Chase.cfg:301
 msgid "Thank you. My comrades and I will help you on your noble quest."
 msgstr ""
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:307
+#: Two_Brothers/scenarios/2_The_Chase.cfg:310
 msgid "I am sorry. We have not the time to spare."
 msgstr "Je suis désolé. Nous n'avons pas de temps à perdre."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:311
+#: Two_Brothers/scenarios/2_The_Chase.cfg:314
 #, fuzzy
 msgid ""
 "Take this, then, for I see that you are on a quest. My comrades will help "
 "you whenever you call for them."
 msgstr "Prenez ceci, alors, puisque je vois que vous effectuez une quête."
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:328
+#: Two_Brothers/scenarios/2_The_Chase.cfg:331
 #, fuzzy
-msgid "You receive 60 pieces of gold!"
+msgid "You receive 70 pieces of gold!"
 msgstr "Vous recevez 80 pièces d'or !"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:344
+#: Two_Brothers/scenarios/2_The_Chase.cfg:347
 msgid "My reinforcements are here!"
 msgstr "Mes renforts sont là !"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:348
+#: Two_Brothers/scenarios/2_The_Chase.cfg:351
 msgid "He escaped us..."
 msgstr "Il s'est échappé..."
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:4
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:15
 msgid "Guarded Castle"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:23
-msgid "Find Bjarn"
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:34
+msgid "Rescue Bjarn"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:65
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:80
 msgid "Rotharik"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:77
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:85
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:94
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:238
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:246
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:254
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:263
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:92
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:100
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:109
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:261
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:269
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:277
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:286
 msgid "Guard"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:116
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:131
 msgid "Knago-Brek"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:126
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:135
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:145
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:154
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:141
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:150
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:160
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:169
 msgid "Castle Guard"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:171
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:193
 msgid ""
 "Arne arrived at the castle and was immediately challenged by some guards."
 msgstr "Arne arriva au château et fut immédiatement interpellé par des gardes."
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:175
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:197
 msgid "Halt! Friend or foe? Give the password."
 msgstr "Halte ! Ami ou ennemi ? Donnez le mot de passe."
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:180
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:202
 msgid "The password is"
 msgstr "Le mot de passe est"
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:183
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:204
 msgid "Alrek!"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:187
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:208
 msgid "Wrong! Die!"
 msgstr "Faux !  Meurs !"
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:193
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:213
 msgid "Argol!"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:197
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:217
 msgid "Oh dear, that's wrong. Any last words?"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:203
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:222
 msgid "Sithrak!"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:207
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:226
 msgid "Pass, friend."
 msgstr "Passe, mon ami."
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:229
-msgid "Haha! Stupid humans think they can stop us with words!"
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:248
+msgid ""
+"Haha! We not kill people for long time. Weapon wants blood. We now kill "
+"humans!!"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:272
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:252
+msgid ""
+"I knew that we had to fight to free my brother! Come on men, lets kill some "
+"orcs."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:294
 msgid "Are you our relief arriving? Does this mean we get to leave here now?"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:276
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:298
 msgid "Um, yes. Fine. You can go."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:280
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:302
 msgid "Um, you're supposed to give the password."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:284
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:306
 msgid "Oh, of course. I had nearly forgotten."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:287
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:308
 msgid "Eleben."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:291
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:312
 msgid "Thanks! Irritating little formality, isn't it?"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:300
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:320
 msgid "Elbrethil."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:310
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:329
 msgid "Toras."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:314
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:333
 msgid "Wrong! So you thought to trick us into deserting our posts? Die!"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:328
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:347
 msgid "Nooo! This is the end..."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:332
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:351
 msgid "There's a key in his robes."
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:336
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:355
 msgid ""
 "It must be the key to the cell they're holding Bjarn in! Let's free him!"
 msgstr ""
 
-#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:365
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:359
+msgid "You should take the key Mylord. You should be the one freeing Bjarn!"
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:374
+msgid "Look what I have found in here! I can count hundred pieces of gold."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:384
+msgid "Look what I have found in here! I can count fifty pieces of gold."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:417
+msgid "I found Bjarn. He is in this cell."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:434
+msgid "Good to see you, Arne. Please help me to get out of this dungeon."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:440
+msgid ""
+"You must be one of Arne's men. Please help me to get out of this dungeon."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:446
+msgid ""
+"The damn Necromancer Rotharik has imprisoned me behind this magical barrier. "
+"You must get the key from him to free me. You can only open it with the key."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:471
 msgid "Thank you for coming to my aid. Let us return to the village."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:504
+msgid "You are too late! Your brother is already dead! Hahahaha...."
+msgstr ""
+
+#: Two_Brothers/scenarios/3_Guarded_Castle.cfg:508
+msgid "Argh!!!"
 msgstr ""
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:4
@@ -509,7 +563,7 @@ msgid "Breaking Dawn"
 msgstr ""
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:40
-msgid "Defeat enemy leader"
+msgid "Defeat the Lich"
 msgstr ""
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:48
@@ -559,6 +613,18 @@ msgstr "Enfin, le village est sauvé."
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:188
 msgid "It is over, I am vanquished."
 msgstr "C'est fini, je suis vaincu."
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:202
+msgid "Everything is lost now that i am dead..."
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:213
+msgid "I don't think we can rescue anyone from these villages. It is too late."
+msgstr ""
+
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:217
+msgid "I was too weak to protect these people. Oh why did this happen to me?!?"
+msgstr ""
 
 #~ msgid "&horseman-moving.png,Childe,(easy);&grand-knight.png,Knight,(hard)"
 #~ msgstr ""

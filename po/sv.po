@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-27 21:57+0200\n"
-"PO-Revision-Date: 2005-08-23 22:01+0200\n"
+"POT-Creation-Date: 2005-09-03 19:05+0200\n"
+"PO-Revision-Date: 2005-09-04 14:36+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,6 @@ msgid "Knight"
 msgstr "Riddare"
 
 #: Two_Brothers.cfg:19
-#, fuzzy
 msgid ""
 "A Black Mage is threatening the local village and its inhabitants. When "
 "their leader Bjarn sends for aid from his brother Arne, he is victorious, "
@@ -44,8 +43,8 @@ msgstr ""
 "En svartmagiker hotar en by och dess invånare. När deras ledare, Bjarn "
 "skickar efter sin bror Arne för att hjälpa dem, så går denne segrande ur "
 "striden, men Bjarn blir kidnappad. Kan du rädda honom?\n"
-"En mycket kort kampanj.\n"
-"Lämplig för nybörjare."
+"\n"
+"En mycket kort kampanj. Lämplig för nybörjare."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:4
 msgid "Rooting Out A Mage"
@@ -55,24 +54,24 @@ msgstr "Fördriva en magiker"
 msgid "Slay the Black Mage"
 msgstr "Döda svartmagikern"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:27
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:44
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:26
+#: Two_Brothers/scenarios/2_The_Chase.cfg:27
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:38
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:44
 msgid "Death of Arne"
 msgstr "Arne dör"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:31
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:52
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:30
+#: Two_Brothers/scenarios/2_The_Chase.cfg:31
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:42
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:52
 msgid "Turns run out"
 msgstr "Dragen tar slut"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:46
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:67
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:45
+#: Two_Brothers/scenarios/2_The_Chase.cfg:46
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:59
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:67
 msgid "Arne"
 msgstr "Arne"
 
@@ -229,12 +228,12 @@ msgstr ""
 msgid "That wasn't so hard!"
 msgstr "Det var ju inte så svårt!"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:362
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:202
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:295
+#: Two_Brothers/scenarios/2_The_Chase.cfg:362
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:488
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:202
 msgid "Everything is lost now that I am dead..."
-msgstr ""
+msgstr "Nu när jag dör så är allt hopp ute..."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:4
 msgid "The Chase"
@@ -334,7 +333,6 @@ msgid "Brena"
 msgstr "Brena"
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:286
-#, fuzzy
 msgid "Wait, friend. We would like to join your cause!"
 msgstr "Vänta, vän. Vi skulle vilja slå följe med dig!"
 
@@ -367,9 +365,8 @@ msgstr ""
 "kommer att hjälpa er närhelst ni kallar på dem."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:331
-#, fuzzy
 msgid "You receive 70 pieces of gold!"
-msgstr "Du får 60 guldstycken!"
+msgstr "Du får 70 guldstycken!"
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:347
 msgid "My reinforcements are here!"
@@ -385,7 +382,7 @@ msgstr "Bevakad borg"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:34
 msgid "Rescue Bjarn"
-msgstr ""
+msgstr "Rädda Bjarn"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:79
 msgid "Rotharik"
@@ -455,12 +452,16 @@ msgid ""
 "Haha! We not kill people for long time. Weapon wants blood. We now kill "
 "humans!!"
 msgstr ""
+"Haha! Länge inte dödat människor. Vapen törstar efter blod. Nu vi döda "
+"människor!!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:251
 msgid ""
 "I knew that we had to fight to free my brother! Come on men, lets kill some "
 "orcs."
 msgstr ""
+"Jag visste väl att vi skulle vara tvungna att slåss för att befria min bror! "
+"Kom nu mannar, låt oss ta kål på några orcher."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:293
 msgid "Are you our relief arriving? Does this mean we get to leave here now?"
@@ -508,40 +509,44 @@ msgid "There's a key in his robes."
 msgstr "Det finns en nyckel i hans kläder."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:354
-#, fuzzy
 msgid ""
 "It must be the key to the cell they're holding Bjarn in! I will take the "
 "key. I can't wait to see my brother. Come on, let's free him."
 msgstr ""
-"Det måste vara nycklen till den cell som de har låst in Bjarn i. Låt oss "
-"befria honom!"
+"Det måste vara nyckeln till cellen där Bjarn är inlåst. Jag tar den.Nu vill "
+"jag träffa min bror igen. Kom, så befriar vi honom."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:369
 msgid "Look what I have found in here! I can count hundred pieces of gold."
-msgstr ""
+msgstr "Titta vad jag har hittat! Så mycket som hundra guldstycken."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:379
 msgid "Look what I have found in here! I can count fifty pieces of gold."
-msgstr ""
+msgstr "Titta vad jag har hittat! Så mycket som femtio guldstycken."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:412
 msgid "I found Bjarn. He is in this cell."
-msgstr ""
+msgstr "Jag har hittat Bjarn. Han är i den här cellen."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:429
 msgid "Good to see you, Arne. Please help me to get out of this dungeon."
 msgstr ""
+"Skönt att se dig, Arne. Hjälp mig ur de här fängelsehålorna, så är du snäll."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:435
 msgid ""
 "You must be one of Arne's men. Please help me to get out of this dungeon."
 msgstr ""
+"Du måste vara en av Arnes mannar. Hjälp mig ur de här fängelsehålorna, så är "
+"du snäll."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:441
 msgid ""
 "The damn Necromancer Rotharik has imprisoned me behind this magical barrier. "
 "You must get the key from him to free me. You can only open it with the key."
 msgstr ""
+"Den där fördömde nekromantikern Rotharik har fängslat mig med magi. Jag kan "
+"bara bli fri om du tar nyckeln ifrån honom. Endast nyckeln kan öppna dörren."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:466
 msgid "Thank you for coming to my aid. Let us return to the village."
@@ -549,12 +554,11 @@ msgstr "Tack för att ni räddade mig. Nu återvänder vi till byn."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:499
 msgid "You are too late! Your brother is already dead! Muhahahaha..."
-msgstr ""
+msgstr "För sent! Din bror är redan död! Mohahahaha...."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:503
-#, fuzzy
 msgid "Argh!!!"
-msgstr "Argol!"
+msgstr "Argh!!!"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:4
 msgid "Return to the Village"
@@ -566,7 +570,7 @@ msgstr "Dagen gryr"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:40
 msgid "Defeat the Lich"
-msgstr ""
+msgstr "Besegra häxmästaren"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:48
 msgid "Death of Bjarn"
@@ -578,7 +582,7 @@ msgstr "Maluraga"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:105
 msgid "Councillor Hoban"
-msgstr "Rådsman Hoban"
+msgstr "Rådman Hoban"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:149
 msgid ""
@@ -623,17 +627,10 @@ msgstr "Allt är slut, jag är besegrad."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:213
 msgid "I don't think we can rescue anyone from these villages. It is too late."
-msgstr ""
+msgstr "Jag tror inte vi kan rädda någon från dessa byar. Det är alltför sent."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:217
 msgid "I was too weak to protect these people. Oh why did this happen to me?!?"
 msgstr ""
-
-#~ msgid "Find Bjarn"
-#~ msgstr "Hitta Bjarn"
-
-#~ msgid "Haha! Stupid humans think they can stop us with words!"
-#~ msgstr "Haha! De dumma människorna tror att de kan stoppa oss med ord!"
-
-#~ msgid "Defeat enemy leader"
-#~ msgstr "Besegra fiendeledaren"
+"Jag var alldeles för svag för att skydda dessa människor. Åh, varför skulle "
+"detta hända mig?!?"

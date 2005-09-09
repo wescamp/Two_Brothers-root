@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-05 20:53+0200\n"
+"POT-Creation-Date: 2005-09-09 12:32+0200\n"
 "PO-Revision-Date: 2005-08-08 11:18+0200\n"
 "Last-Translator: blurgk <blurgk@gmail.com>\n"
 "Language-Team: Language fr\n"
@@ -53,24 +53,24 @@ msgstr "La destruction d'un mage"
 msgid "Slay the Black Mage"
 msgstr "Éliminer le mage noir"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:27
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:25
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:26
+#: Two_Brothers/scenarios/2_The_Chase.cfg:27
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:38
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:25
 msgid "Death of Arne"
 msgstr "Mort de Arne"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:31
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:33
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:30
+#: Two_Brothers/scenarios/2_The_Chase.cfg:31
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:42
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:33
 msgid "Turns run out"
 msgstr "Fin des tours atteinte"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:46
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:48
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:45
+#: Two_Brothers/scenarios/2_The_Chase.cfg:46
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:59
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:48
 msgid "Arne"
 msgstr "Arne"
 
@@ -137,13 +137,12 @@ msgid "'ello there, Bjarn. So, what's the big fuss?"
 msgstr "Salut, Bjarn. Alors, c'est quoi l'histoire ?"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:213
-#, fuzzy
 msgid ""
 "An evil mage, two day's ride north, is posing a threat to our livelihoods. "
 "He is terrorizing our countryside. I've already called the village to arms "
 "and now it's up to you to lead them."
 msgstr ""
-"Un mage mauvais, à un jour de cheval au nord, constitue une menace pour "
+"Un mage mauvais, à deux jours de cheval au nord, constitue une menace pour "
 "notre mode de vie. Il terrorise notre campagne. J'ai déjà appelé le village "
 "aux armes, c'est à toi de les mener."
 
@@ -167,8 +166,8 @@ msgid ""
 "he is off his guard, the battle will be over in one stroke!"
 msgstr ""
 "Je vais essayer de m'introduire dans la forêt. Si je peux éliminer le grand "
-"méchant tandis qu'il n'est pas sur ses gardes, la bataille sera terminée "
-"d'un seul coup !"
+"méchant tandis qu'il n'est pas sur ses gardes, la bataille sera terminée en "
+"un seul coup !"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:236
 msgid ""
@@ -235,10 +234,10 @@ msgstr ""
 msgid "That wasn't so hard!"
 msgstr "Ça n'était pas si difficile !"
 
-#: Two_Brothers/scenarios/2_The_Chase.cfg:363
-#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:195
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:331
+#: Two_Brothers/scenarios/2_The_Chase.cfg:363
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:492
+#: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:195
 msgid "Everything is lost now that I am dead..."
 msgstr "Tout est perdu maintenant que je suis mort..."
 
@@ -578,9 +577,8 @@ msgid "Return to the Village"
 msgstr "Retour au village"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:21
-#, fuzzy
 msgid "Defeat the Enemy Leader"
-msgstr "Vaincre la liche"
+msgstr "Vaincre le chef ennemi"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:29
 msgid "Death of Bjarn"
@@ -588,60 +586,63 @@ msgstr "Mort de Bjarn"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:61
 msgid "Tairach"
-msgstr ""
+msgstr "Tairach"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:86
 msgid "Councillor Hoban"
 msgstr "Conseiller Hoban"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:113
-#, fuzzy
 msgid ""
 "There. Your village is just across those hills, and already I see men coming "
 "to greet us!"
 msgstr ""
-"Notre village est juste derrière ces collines, et je vois déjà des hommes "
+"Ton village est juste derrière ces collines, et je vois déjà des hommes "
 "venir nous accueillir !"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:117
-#, fuzzy
 msgid ""
 "No. They are fleeing from something. We have to find out what is happening "
 "over here!"
 msgstr ""
-"Non. Ils fuient quelque chose. Je vois des morts-vivants là-bas ! Ils ont "
-"attaqué notre village !"
+"Non. Ils fuient quelque chose. Nous devons déterminer ce qui se passe là-"
+"bas !"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:121
-#, fuzzy
 msgid "I think your village is protected well, though."
-msgstr "Je pense que nos amis résistent bien."
+msgstr "Je pense que ton village est bien protégé, tout de même."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:125
 msgid ""
 "We should go there and talk to Councillor Hoban. Maybe he knows what is "
 "going on here."
 msgstr ""
+"Nous devrions y aller et parler au conseiller Hoban. Peut-être qu'il sait ce "
+"qui se passe."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:138
 msgid "I am glad to see you back again."
-msgstr ""
+msgstr "Je suis ravi de te revoir."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:142
 msgid "So am I. But what is happening to our village?"
-msgstr ""
+msgstr "Et moi donc. Mais que se passe-t-il dans notre village ?"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:146
 msgid ""
 "In the time you have been away a looting band of orcs took over this region. "
 "It was noone here to stop them."
 msgstr ""
+"Pendant que tu étais absent une bande de pillards orcs a pris le contrôle de "
+"cette région. Il n'y avait personne ici pour les arrêter."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:150
 msgid ""
 "The orcish Warlord wants to enslave us. We will not be able to hold out for "
 "long."
 msgstr ""
+"Le seigneur de guerre orc veut nous réduire en esclavage. Nous ne pourrons "
+"pas tenir longtemps."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:154
 msgid ""
@@ -649,16 +650,22 @@ msgid ""
 "weapon have been killed by his troops. There are not many left, but I will "
 "send them to support you as good as possible."
 msgstr ""
+"Faites attention, il a déjà tué bon nombre d'entre nous. Beaucoup de ceux "
+"capables de tenir une arme ont été tués par ses troupes. Il en reste peu, "
+"mais je vous les enverrai pour vous soutenir du mieux possible."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:162
 msgid "Finally the orc is killed. Now you can go back to your village."
 msgstr ""
+"Finalement l'orc est tué. Vous pouvez maintenant retourner à votre village."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:166
 msgid ""
 "So much has been destroyed. We will have a hard time fixing the damages the "
 "orcs and the undead caused. I hope this does not happen again."
 msgstr ""
+"Tant a été détruit. Il sera difficile de réparer les dégâts que les orcs et "
+"les morts-vivants ont causés. J'espère que cela n'arrivera plus."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:170
 msgid ""
@@ -666,6 +673,9 @@ msgid ""
 "ever got to face another grim foe to face, send me a messenger. I'll come as "
 "fast as I can, little brother."
 msgstr ""
+"Je dois te quitter maintenant. Moi et mes hommes sommes appelés par "
+"d'autres. Mais si tu dois jamais faire face à un autre ennemi sinistre, "
+"envoie-moi un messager. Je viendrai aussi vite que possible, petit frère."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:181
 msgid "It is over, I am vanquished."
@@ -682,26 +692,3 @@ msgid "I was too weak to protect these people. Oh why did this happen to me?!?"
 msgstr ""
 "J'ai été trop faible pour protéger ces gens. Oh, pourquoi est-ce arrivé à "
 "moi ?!"
-
-#~ msgid "Breaking Dawn"
-#~ msgstr "Rupture de l'aube"
-
-#~ msgid "Maluraga"
-#~ msgstr "Maluraga"
-
-#~ msgid ""
-#~ "The undead are lead by a Lich. What a grim foe to face. Let us hold until "
-#~ "dawn, and then strike!"
-#~ msgstr ""
-#~ "Les morts-vivants sont menés par une liche. Quel ennemi sinistre à "
-#~ "affronter. Retenons-nous jusqu'à l'aube, et puis frappons !"
-
-#~ msgid ""
-#~ "Look, the first rays of the sun break over the horizon! They are at their "
-#~ "weakest now!"
-#~ msgstr ""
-#~ "Regardez, les premiers rayons du soleil à l'horizon ! Ils sont plus "
-#~ "faibles maintenant !"
-
-#~ msgid "At last, our village is safe."
-#~ msgstr "Enfin, notre village est sauf."

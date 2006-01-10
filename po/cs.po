@@ -1,18 +1,19 @@
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-19 01:10+0100\n"
-"PO-Revision-Date: 2005-12-18 20:38+0100\n"
-"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
+"PO-Revision-Date: 2006-01-11 00:01+0100\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Two_Brothers.cfg:11
-#, fuzzy
 msgid "A Tale Of Two Brothers"
 msgstr "Příběh dvou bratrů"
 
@@ -34,20 +35,15 @@ msgstr "Rytíř"
 
 #: Two_Brothers.cfg:19
 msgid ""
-"A Black Mage is threatening the local village and its inhabitants. When "
-"their leader Bjarn sends for aid from his brother Arne, he is victorious, "
-"but Bjarn himself is kidnapped. Can you rescue him?\n"
+"A Black Mage is threatening the local village and its inhabitants. When their leader Bjarn sends for aid from his brother Arne, he is victorious, but Bjarn himself is kidnapped. Can you rescue him?\n"
 "A very short campaign.\n"
 "Suitable for beginners."
 msgstr ""
-"Temný mág ohrožuje vesnici a její obyvatele. Místní vůdce Bjarn posílá svého "
-"bratra Arneho pro pomoc a ten zvítězí v bitvě, ale Bjarn je unesen. Dokážeš "
-"jej osvobodit?\n"
+"Temný mág ohrožuje vesnici a její obyvatele. Místní vůdce Bjarn posílá svého bratra Arneho pro pomoc a ten zvítězí v bitvě, ale Bjarn je unesen. Dokážeš jej osvobodit?\n"
 "Velmi krátká kampaň.\n"
 "Vhodná pro začátečníky."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:4
-#, fuzzy
 msgid "Rooting Out A Mage"
 msgstr "Likvidace mága"
 
@@ -116,80 +112,44 @@ msgid "The Black Mage"
 msgstr "Temný mág"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:205
-#, fuzzy
-msgid ""
-"In a remote part of Wesnoth, people lived their lives working hard and "
-"caring for each other, but not knowing much about the world outside. One "
-"day, however, their peaceful world was shattered, as an evil mage came to "
-"the region, spreading havoc and despair."
-msgstr ""
-"V okrajové části Wesnothu žili lidé pospolitě a tvrdou prací; neměli mnoho "
-"vědomostí o okolním světě. Jednoho dne byl však jejich poklidný svět "
-"otřesen. Do oblasti se přišel temný mág, šíříc zkázu a zoufalství."
+msgid "In a remote part of Wesnoth, people lived their lives working hard and caring for each other, but not knowing much about the world outside. One day, however, their peaceful world was shattered, as an evil mage came to the region, spreading havoc and despair."
+msgstr "V okrajové části Wesnothu žili lidé pospolitě a tvrdou prací; neměli mnoho vědomostí o okolním světě. Jednoho dne byl však jejich poklidný svět otřesen. Do oblasti se přišel temný mág, šíříc zkázu a zoufalství."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:209
-#, fuzzy
-msgid ""
-"Bjarn, the local mage of the village, was the man who saw best how to deal "
-"with this threat. He asked the help of his brother Arne, leader of a "
-"mercenary band of horsemen, and outfitted several of the villagers with gear "
-"from the armory."
-msgstr ""
-"Bjarn, místní mág z vesnice, byl tím kdo věděl jak se nejlépe vypořádat s "
-"touto hrozbou. Požádal o pomoc svého bratra Arneho, vůdce skupiny jízdních "
-"žoldáků, a vybavil množství vesničanů ve zbrojnici."
+msgid "Bjarn, the local mage of the village, was the man who saw best how to deal with this threat. He asked the help of his brother Arne, leader of a mercenary band of horsemen, and outfitted several of the villagers with gear from the armory."
+msgstr "Bjarn, místní mág z vesnice, byl tím kdo nejlépe věděl jak se vypořádat s touto hrozbou. Požádal o pomoc svého bratra Arneho, vůdce skupiny jízdních žoldáků, a vybavil množství vesničanů ve zbrojnici."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:214
 msgid "'ello there, Bjarn. So, what's the big fuss?"
 msgstr "Zdravíčko, Bjarne. Tak co máš za problém?"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:219
-msgid ""
-"An evil mage, two day's ride north, is posing a threat to our livelihoods. "
-"He is terrorizing our countryside. I've already called the village to arms "
-"and now it's up to you to lead them."
-msgstr ""
-"Ohrožuje nás Temný mág, který se usadil dva dny jízdy na sever. Terorizuje "
-"náš kraj. Už jsem ve vesnici vyhlásil brannou povinnost; teď je na tobě, aby "
-"jsi je vedl."
+msgid "An evil mage, two day's ride north, is posing a threat to our livelihoods. He is terrorizing our countryside. I've already called the village to arms and now it's up to you to lead them."
+msgstr "Ohrožuje nás Temný mág, který se usadil dva dny jízdy na sever. Terorizuje náš kraj. Už jsem ve vesnici vyhlásil brannou povinnost; teď je na tobě, aby jsi je vedl."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:224
 msgid "Very well. We will go there and slay this source of evil. Charge, men!"
 msgstr "Dobrá. Půjdeme tam a sprovodíme ze světa ten zdroj zla. Kupředu!"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:229
-msgid ""
-"After a short journey the small band of troops is close to the hideout of "
-"the evil mage."
-msgstr ""
-"Po krátké cestě se dostala malá skupina jednotek na dohled úkrytu Temného "
-"mága."
+msgid "After a short journey the small band of troops is close to the hideout of the evil mage."
+msgstr "Po krátké cestě se dostala malá skupina jednotek na dohled úkrytu Temného mága."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:233
-msgid ""
-"I will attempt to sneak through the forest. If I can slay the evil one while "
-"he is off his guard, the battle will be over in one stroke!"
-msgstr ""
-"Pokusím se proplížit lesem. Podaří-li se mi překvapit a neočekávaně usmrtit "
-"toho zlosyna, bitva bude krátkou záležitostí!"
+msgid "I will attempt to sneak through the forest. If I can slay the evil one while he is off his guard, the battle will be over in one stroke!"
+msgstr "Pokusím se proplížit lesem. Podaří-li se mi překvapit a neočekávaně usmrtit toho zlosyna, bitva bude krátkou záležitostí!"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:245
-msgid ""
-"Bjarn should have been in position by now. I wonder if anything's happened "
-"to him?"
+msgid "Bjarn should have been in position by now. I wonder if anything's happened to him?"
 msgstr "Touto dobou už měl Bjarn být na svém místě. Snad se mu něco nestalo!"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:254
-msgid ""
-"This is worrying. What's happened to Bjarn? I suppose we must slay the "
-"necromancer ourselves."
-msgstr ""
-"Tohle je znepokojující. Co se Bjarnovi stalo? Předpokládám že musíme "
-"nekromancera porazit sami."
+msgid "This is worrying. What's happened to Bjarn? I suppose we must slay the necromancer ourselves."
+msgstr "Tohle je znepokojující. Co se Bjarnovi stalo? Předpokládám že musíme nekromancera porazit sami."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:274
 msgid "Good work, men. Now, where is Bjarn?"
-msgstr "Dobrá práce, muži. A teď, kde je Bjarn?"
+msgstr "Dobrá práce, pánové. A teď, kde je Bjarn?"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:279
 msgid "Worried about him, are you? E-he-he..hergh...gaargh. . ."
@@ -200,38 +160,24 @@ msgid "Nothing more to be had from him."
 msgstr "Od toho už se nic nedovíme."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:288
-msgid ""
-"Sir, he's been kidnapped! I just saw some men running off with him. They "
-"looked like friends of this one."
-msgstr ""
-"Pane, byl unesen! Zrovna teď jsem viděl nějaké muže, jak s ním utíkali pryč. "
-"Vypadali jako kumpáni tady tohohle."
+msgid "Sir, he's been kidnapped! I just saw some men running off with him. They looked like friends of this one."
+msgstr "Pane, byl unesen! Zrovna teď jsem viděl nějaké muže, jak s ním utíkali pryč. Vypadali jako kumpáni tady tohohle."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:292
-#, fuzzy
 msgid "Damn! I suppose we have to go after him, then."
-msgstr "Zatraceně! Zřejmě se za ním budeme muset vydat."
+msgstr "Zatraceně! Zřejmě se pro něj budeme muset dojít."
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:306
-#, fuzzy
-msgid ""
-"Ha, so you thought to send a mage around and stab me in the back? Well, I "
-"have news for you. We've kidnapped him!"
-msgstr ""
-"Cha, myslel sis že vyšleš mága a necháš jej dostat mě zezadu? No, v tom "
-"případě pro tebe mám špatné zprávy. Unesli jsme ho!"
+msgid "Ha, so you thought to send a mage around and stab me in the back? Well, I have news for you. We've kidnapped him!"
+msgstr "Cha, myslel sis že vyšleš mága a necháš jej dostat mě zezadu? No, v tom případě pro tebe mám špatné zprávy. Unesli jsme ho!"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:310
-#, fuzzy
-msgid ""
-"What? Bjarn kidnapped? And the black mage still ravages the land? Noooo!"
+msgid "What? Bjarn kidnapped? And the black mage still ravages the land? Noooo!"
 msgstr "Cože? Bjarn byl unesen? A ten temný mág stále likviduje kraj? Neeee!"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:323
 msgid "I hear these creatures are near immune to our weapons, let us see!"
-msgstr ""
-"Slyšel jsem, že tato stvoření jsou téměř nezranitelná našimi zbraněmi. "
-"Uvidíme!"
+msgstr "Slyšel jsem, že tato stvoření jsou téměř nezranitelná našimi zbraněmi. Uvidíme!"
 
 #: Two_Brothers/scenarios/1_Rooting_Out_A_Mage.cfg:336
 msgid "That wasn't so hard!"
@@ -257,22 +203,16 @@ msgid "Nil-Galion"
 msgstr "Nil-Galion"
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:171
-#, fuzzy
-msgid ""
-"The kidnappers fled north through the forest, and Arne made to follow them, "
-"although his horsemen would be at a disadvantage."
-msgstr ""
-"Únosci prchali na sever lesem a Arne je následoval i přesto, že jeho jezdci "
-"budou v nevýhodě."
+msgid "The kidnappers fled north through the forest, and Arne made to follow them, although his horsemen would be at a disadvantage."
+msgstr "Únosci prchali na sever lesem a Arne je následoval i přesto, že jeho jezdci budou v nevýhodě."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:175
-#, fuzzy
 msgid "Sounds of a scuffle were heard from the forest."
-msgstr "Z lesa se ozvaly zvuky pohybu."
+msgstr "Z lesa bylo slyšet zvuky probíhající šarvátky."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:179
 msgid "Come on men. Some greenery never hurt anyone, did it?"
-msgstr "Pojďte, muži. Nějaká ta zeleň přece nikomu neublíží!"
+msgstr "Pojďte, lidi. Nějaká ta zeleň přece nikomu neublíží!"
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:184
 msgid "You there! Halt and explain yourself."
@@ -307,34 +247,20 @@ msgid "Come on, men, let's catch those kidnappers!"
 msgstr "Pojďte, muži, konečně chytíme ty únosce!"
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:283
-#, fuzzy
-msgid ""
-"Hah! You got me alright, but what does that help? No harm telling you now, I "
-"suppose. Your precious mage is safely locked away in our dungeons. I was set "
-"up to be a decoy."
-msgstr ""
-"Ha! Tak jste mě tedy dostali, ale čemu to pomůže? Předpokládám že teď už z "
-"toho nevzejde žádná škoda, když vám to řeknu. Váš mág je bezpečně pod zámkem "
-"v jednom z našich vzdálených sklepení. Měl jsem za úkol hrát návnadu."
+msgid "Hah! You got me alright, but what does that help? No harm telling you now, I suppose. Your precious mage is safely locked away in our dungeons. I was set up to be a decoy."
+msgstr "Ha! Tak jste mě tedy dostali, ale čemu to pomůže? Předpokládám že teď už z toho nevzejde žádná škoda, když vám to řeknu. Váš mág je bezpečně pod zámkem v jednom z našich vzdálených sklepení. Měl jsem za úkol hrát návnadu."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:287
-#, fuzzy
-msgid ""
-"Nooo! Tricked again. Tell us where he is and we shall spare your miserable "
-"life."
+msgid "Nooo! Tricked again. Tell us where he is and we shall spare your miserable life."
 msgstr "Neee! Zase podvedeni! Řekni nám kde je a ušetříme tvůj mizerný život."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:292
-msgid ""
-"Three days ride to the east, in the deserted castle. The passwords to the "
-"guards are Sithrak and Eleben."
-msgstr ""
-"V opuštěném hradu tři dny jízdy na východ. Hesla pro průchod hlídkami jsou "
-"Sithrak a Eleben."
+msgid "Three days ride to the east, in the deserted castle. The passwords to the guards are Sithrak and Eleben."
+msgstr "V opuštěném hradu tři dny jízdy na východ. Hesla pro průchod hlídkami jsou Sithrak a Eleben."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:296
 msgid "Thank you. Leave him, men, we ride East."
-msgstr "Díky. Muži, nechte jej, jedeme na východ."
+msgstr "Díky. Nechte ho jít, jedeme na východ."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:303
 msgid "Brena"
@@ -357,7 +283,6 @@ msgid "Oh, all right then. Come along with us."
 msgstr "Nu, proč ne. Poďte s námi."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:331
-#, fuzzy
 msgid "Thank you. My comrades and I will help you on your noble quest."
 msgstr "Díky. Já a mí druzi ti pomůžeme v dosažení tvého ctného cíle."
 
@@ -366,20 +291,14 @@ msgid "I am sorry. We have not the time to spare."
 msgstr "Je mi líto, nemáme času nazbyt."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:344
-#, fuzzy
-msgid ""
-"Take this, then, for I see that you are on a quest. My comrades will help "
-"you whenever you call for them."
-msgstr ""
-"Pak tedy vezmi toto, neboť vidím že máš úkol. Mí druzi ti pomohou kdykoliv "
-"je přivoláš."
+msgid "Take this, then, for I see that you are on a quest. My comrades will help you whenever you call for them."
+msgstr "Pak tedy přijmi alespoň toto, neboť vidím, že jsi na výpravě. Mí druzi ti pomohou kdykoliv je přivoláš."
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:361
 msgid "You receive 70 pieces of gold!"
 msgstr "Dostal jsi 70 zlatých!"
 
 #: Two_Brothers/scenarios/2_The_Chase.cfg:377
-#, fuzzy
 msgid "My reinforcements are here!"
 msgstr "Mé posily dorazily!"
 
@@ -388,7 +307,6 @@ msgid "He escaped us..."
 msgstr "Unikl nám..."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:15
-#, fuzzy
 msgid "Guarded Castle"
 msgstr "Střežený hrad"
 
@@ -423,8 +341,7 @@ msgid "Castle Guard"
 msgstr "Hradní stráž"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:217
-msgid ""
-"Arne arrived at the castle and was immediately challenged by some guards."
+msgid "Arne arrived at the castle and was immediately challenged by some guards."
 msgstr "Arne se přiblížil ke hradu a ihned byl konfrontován hlídkami."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:221
@@ -448,7 +365,6 @@ msgid "Argol!"
 msgstr "Argol!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:242
-#, fuzzy
 msgid "Oh dear, that's wrong. Any last words?"
 msgstr "Ale ale, to je špatně! Nějaké poslední přání?"
 
@@ -461,21 +377,12 @@ msgid "Pass, friend."
 msgstr "Můžeš projít, příteli."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:273
-#, fuzzy
-msgid ""
-"Haha! We not kill people for long time. Weapon wants blood. We now kill "
-"humans!!"
-msgstr ""
-"Chachá! Já dlouho nezabil člověky. Zbraň chce krev. Teď my zabijeme člověky!"
+msgid "Haha! We not kill people for long time. Weapon wants blood. We now kill humans!!"
+msgstr "Chachá! Já dlouho nezabil člověky. Zbraň chce krev. Teď my zabijeme člověky!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:277
-#, fuzzy
-msgid ""
-"I knew that we had to fight to free my brother! Come on men, lets kill some "
-"orcs."
-msgstr ""
-"Věděl jsem, že budeme muset mého bratra osvobodit bojem! Muži, vpřed, "
-"pobijeme nějaké ty skřety."
+msgid "I knew that we had to fight to free my brother! Come on men, lets kill some orcs."
+msgstr "Věděl jsem, že budeme muset mého bratra osvobodit bojem! Vpřed, pobijeme nějaké ty skřety."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:320
 msgid "Are you our relief arriving? Does this mean we get to leave here now?"
@@ -486,7 +393,6 @@ msgid "Um, yes. Fine. You can go."
 msgstr "Ah, ano. Dobrá. Můžete jít."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:329
-#, fuzzy
 msgid "Um, you're supposed to give the password."
 msgstr "Ehm, měl by jsi se prokázat heslem."
 
@@ -512,8 +418,7 @@ msgstr "Toras."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:361
 msgid "Wrong! So you thought to trick us into deserting our posts? Die!"
-msgstr ""
-"Kdepak! Myslel sis že nás tak snadnou lstí donutíš opustit pozice? Zemři!"
+msgstr "Kdepak! Myslel sis že nás tak snadnou lstí donutíš opustit pozice? Zemři!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:375
 msgid "Nooo! This is the end..."
@@ -524,15 +429,10 @@ msgid "There's a key in his robes."
 msgstr "V jeho šatech je klíč."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:383
-msgid ""
-"It must be the key to the cell they're holding Bjarn in! I will take the "
-"key. I can't wait to see my brother. Come on, let's free him."
-msgstr ""
-"To je určitě klíč k cele v níž vězní Bjarna! Vezmu si jej. Už se nemohu "
-"dočkat, až uvidím svého bratra. Pojďme jej osvobodit."
+msgid "It must be the key to the cell they're holding Bjarn in! I will take the key. I can't wait to see my brother. Come on, let's free him."
+msgstr "To je určitě klíč k cele v níž vězní Bjarna! Vezmu si jej. Už se nemohu dočkat, až uvidím svého bratra. Pojďme jej osvobodit."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:390
-#, fuzzy
 msgid "Move Arne to the cell with his brother to free him"
 msgstr "Přesuň Arneho k cele s jeho bratrem, abys jej osvobodil"
 
@@ -549,41 +449,30 @@ msgid "I found Bjarn. He is in this cell."
 msgstr "Našel jsem Bjarna. Je v této cele."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:487
-#, fuzzy
 msgid "Good to see you, Arne. Please help me to get out of this dungeon."
 msgstr "Tak rád tě vidím, Arne. Prosím, pomož mi dostat se z téhle kobky!"
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:494
-#, fuzzy
-msgid ""
-"You must be one of Arne's men. Please help me to get out of this dungeon."
+msgid "You must be one of Arne's men. Please help me to get out of this dungeon."
 msgstr "Ty jsi určitě jeden z Arneho mužů. Pomož mi z tohohle podzemí, prosím."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:501
-msgid ""
-"The damn Necromancer Rotharik has imprisoned me behind this magical barrier. "
-"You must get the key from him to free me. You can only open it with the key."
-msgstr ""
-"Ten zatracený nekromancer Rotharik mě uvěznil za touto magickou bariérou. "
-"Abys mne osvobodil, musíš od něj získat klíč. Bariéru otevřeš jen tím klíčem."
+msgid "The damn Necromancer Rotharik has imprisoned me behind this magical barrier. You must get the key from him to free me. You can only open it with the key."
+msgstr "Ten zatracený nekromancer Rotharik mě uvěznil za touto magickou bariérou. Abys mne osvobodil, musíš od něj získat klíč. Bariéru otevřeš jen tím klíčem."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:507
-#, fuzzy
 msgid "Kill the necromancer to get the cellkey"
 msgstr "Zabij nekromancera, abys od něj získal klíč k cele."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:542
-#, fuzzy
 msgid "Thank you for coming to my aid. Let us return to the village."
-msgstr "Děkuji ti za pomoc. Vraťme se do vesnice."
+msgstr "Děkuji ti, žes mne přišel zachránit. Vraťme se nyní do vesnice."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:577
-#, fuzzy
 msgid "You are too late! Your brother is already dead! Muhahahaha..."
 msgstr "Přicházíš tak trochu pozdě! Tvůj bratr už je mrtvý! Hahahahaa..."
 
 #: Two_Brothers/scenarios/3_Guarded_Castle.cfg:581
-#, fuzzy
 msgid "Argh!!!"
 msgstr "Argh!!!"
 
@@ -609,16 +498,11 @@ msgid "Councillor Hoban"
 msgstr "Radní Hoban"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:121
-msgid ""
-"There. Your village is just across those hills, and already I see men coming "
-"to greet us!"
-msgstr ""
-"Tvá vesnice je hned tam za těmi kopci. Vidím lidi přicházet nám naproti!"
+msgid "There. Your village is just across those hills, and already I see men coming to greet us!"
+msgstr "Tvá vesnice je hned tam za těmi kopci. Vidím lidi přicházet nám naproti!"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:126
-msgid ""
-"No. They are fleeing from something. We have to find out what is happening "
-"over here!"
+msgid "No. They are fleeing from something. We have to find out what is happening over here!"
 msgstr "Ne. Utíkají před něčím. Musíme zjistit co se tam stalo!"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:131
@@ -626,9 +510,7 @@ msgid "I think your village is protected well, though."
 msgstr "Přesto si myslím že je tvá vesnice dobře chráněná."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:136
-msgid ""
-"We should go there and talk to Councillor Hoban. Maybe he knows what is "
-"going on here."
+msgid "We should go there and talk to Councillor Hoban. Maybe he knows what is going on here."
 msgstr "Měli bychom najít radního Hobana. Třeba bude vědět co se tam děje."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:148
@@ -640,27 +522,16 @@ msgid "So am I. But what is happening to our village?"
 msgstr "Já tebe také. Ale co se děje ve vesnici?"
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:157
-msgid ""
-"In the time you have been away a looting band of orcs took over this region. "
-"It was noone here to stop them."
-msgstr ""
-"Zatímco jsi byl pryč, usadila se v okolí banda skřetích loupežníků. Nebyl tu "
-"nikdo, kdo by je zastavil."
+msgid "In the time you have been away a looting band of orcs took over this region. It was noone here to stop them."
+msgstr "Zatímco jsi byl pryč, usadila se v okolí banda skřetích loupežníků. Nebyl tu nikdo, kdo by je zastavil."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:161
-msgid ""
-"The orcish Warlord wants to enslave us. We will not be able to hold out for "
-"long."
-msgstr ""
-"Skřetí vojevůdce nás chce zotročit. Nejsme již schopni dlouho vzdorovat."
+msgid "The orcish Warlord wants to enslave us. We will not be able to hold out for long."
+msgstr "Skřetí vojevůdce nás chce zotročit. Nejsme již schopni dlouho vzdorovat."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:165
-msgid ""
-"Be careful, he is responsible for the deaths of many of us.  Very few remain "
-"who can bear arms, but I will send them to aid you in battle."
-msgstr ""
-"Buď opatrný, je zodpovědný za smrt mnoha z nás. Nezbývá mnoho těch, kteří by "
-"byli schopni boje, ale pošlu ti je na pomoc."
+msgid "Be careful, he is responsible for the deaths of many of us.  Very few remain who can bear arms, but I will send them to aid you in battle."
+msgstr "Buď opatrný, je zodpovědný za smrt mnoha z nás. Nezbývá mnoho těch, kteří by byli schopni boje, ale pošlu ti je na pomoc."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:170
 msgid "Slay the orcish Warlord to free the village"
@@ -671,26 +542,14 @@ msgid "Finally the orc is killed. Now you can go back to your village."
 msgstr "Skřet je konečně poražen. Teď se můžeš vrátit do své vesnice."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:197
-msgid ""
-"So much has been destroyed. We will have a hard time fixing the damages the "
-"orcs and the undead caused. I hope this does not happen again."
-msgstr ""
-"Tolik bylo zničeno. Bude nám dlouho trvat, než napravíme všechny škody "
-"způsobené nemrtvými a skřety. Doufám, že se to již nestane."
+msgid "So much has been destroyed. We will have a hard time fixing the damages the orcs and the undead caused. I hope this does not happen again."
+msgstr "Tolik bylo zničeno. Bude nám dlouho trvat, než napravíme všechny škody způsobené nemrtvými a skřety. Doufám, že se to již nestane."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:202
-#, fuzzy
-msgid ""
-"I got to leave you now. Me and my men are needed by others, too. But if you "
-"ever got to face another grim foe to face, send me a messenger. I'll come as "
-"fast as I can, little brother."
-msgstr ""
-"Teď tě musím opustit. Mne a mé muže potřebují i jiní. Pokud však kdykoliv "
-"budeš čelit dalšímu nepříteli, dej mi vědět. Přijdu tak rychle jak jen to "
-"bude možné, bratře."
+msgid "I got to leave you now. Me and my men are needed by others, too. But if you ever got to face another grim foe to face, send me a messenger. I'll come as fast as I can, little brother."
+msgstr "Teď tě musím opustit. Mne a mé muže potřebují i jiní. Pokud však kdykoliv budeš čelit dalšímu nepříteli, dej mi vědět. Přijdu tak rychle jak jen to bude možné, bratře."
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:214
-#, fuzzy
 msgid "It is over, I am vanquished."
 msgstr "To je konec, jsem rozdrcen!"
 
@@ -700,6 +559,5 @@ msgstr "Nemyslím že dokážeme zachránit nikoho z těch vesnic. Už je pozdě
 
 #: Two_Brothers/scenarios/4_Return_to_the_Village.cfg:246
 msgid "I was too weak to protect these people. Oh why did this happen to me?!?"
-msgstr ""
-"Byl jsem příliš slabý na to, abych dokázal ochránit tyto lidi. Ach, proč se "
-"mi to jen stalo?!?"
+msgstr "Byl jsem příliš slabý na to, abych dokázal ochránit tyto lidi. Ach, proč se mi to jen stalo?!?"
+
